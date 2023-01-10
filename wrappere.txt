@@ -1,0 +1,8 @@
+class WrapperDemo {
+
+    public static void main(String[] args) {
+        int myNumber = 10;
+        Integer  = Integer.valueOf(number);
+        System.out.println(value);
+    }
+}        
